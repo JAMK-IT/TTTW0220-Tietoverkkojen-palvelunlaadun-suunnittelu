@@ -27,24 +27,22 @@ Tunnit pidetään TTV15S5 keskiviikkoisin 11:30 - 14:00, jossa tauko n. 13:00-13
 
 | Vko | Sisältö | Materiaalit | Harjoitustehtävät |
 |:--------|:----------:|:-----:|---------|
-| 02 | Opintojakson esittely | Linkkejä | - |
-| 03 | Opintojakson esittely | Linkkejä | - |
-| 04 | Opintojakson esittely | Linkkejä | - |
-| 05 | Opintojakson esittely | Linkkejä | - |
-| 06 | Opintojakson esittely | Linkkejä | - |
-| 07 | Opintojakson esittely | Linkkejä | - |
-| 08 | Opintojakson esittely | Linkkejä | - |
+| 02 | Opintojakson esittely, Palvelunlaatu IntServ, DiffServ, Multicast alustus | Linkkejä | - |
+| 03 | Reititys, Siltaus | Linkkejä | - |
+| 04 | IGMP ja L2 Multicast, PIM ja L3 Multicast | Linkkejä | - |
+| 05 | VPNs (L3, L2), MEF & 802.1ah (MinM) | Linkkejä | - |
+| 06 | ENNI, MetroEthernet as an extension of MPLS | Linkkejä | - |
+| 07 | QoS merkkaus | Linkkejä | - |
+| 08 | QoS jonotus, puolikurssipalaute | Linkkejä | - |
 | 09 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Itseopiskeluviikko ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) | Linkkejä | - |
-| 10 | Opintojakson esittely | Linkkejä | - |
-| 11 | Opintojakson esittely | Linkkejä | - |
-| 12 | Opintojakson esittely | Linkkejä | - |
-| 13 | Opintojakson esittely | Linkkejä | - |
-| 14 | Opintojakson esittely | Linkkejä | - |
-| 15 | Opintojakson esittely | Linkkejä | - |
+| 10 | Ruuhkanesto (RED, WRED), QoS leikkaus, muokkaus & Junos QoS | Linkkejä | - |
+| 11 | Cisco QoS, Extreme QoS, H-QoS | Linkkejä | - |
+| 12 | E2E-QoS, QoS mittaaminen, IP-verkon suorituskyvyn monitorointi | Linkkejä | - |
+| 13 | QoS -politiikkaa, VPLS, H-VPLS, VPLS+PBB, Traffic Engineering | Linkkejä | - |
+| 14 | Vierailijaluento | Linkkejä | - |
+| 15 | Kertaus kokeeseen | Linkkejä | - |
 | 16 | **Tentti** | ... | ... |
-| 17 | 1. Uusintatentti.. | ... | ... |
-
-**Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
+| 17 | **1. Uusintatentti..** | ... | ... |
 
 ## Oppimateriaali
 
@@ -81,5 +79,4 @@ Opintojaksolla ei ole läsnäolovelvollisuutta.
 
 Opintojaksopalaute kerätään aikataulun mukaisesti.
 
-
-
+**Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
