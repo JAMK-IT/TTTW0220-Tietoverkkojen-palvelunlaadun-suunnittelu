@@ -1,17 +1,23 @@
 # Tietoverkkojen palvelunlaadun suunnittelu - TTTW0220 - 4op
 
+# Sisältö
+1. [Yleisesti](#yleisesti)
+2. [Läsnäolovelvollisuus, suoritustavat, arviointi ja palaute](#läsnäolovelvollisuus,-suoritustavat,-arviointi-ja-palaute)
+3. [Aikataulu](#aikataulu)
+4. [Uusinta](#uusintakokeen-mahdollisuudet)
+
 ## Yleisesti
 
 ![JAMK IT-instituutti](src/jamk_it-instituutti_logo_engl_web_350x150.png "JAMK IT-instituutti")
 
-Yksikkö: JAMK, Teknologiayksikkö, IT-instituutti
-Opettaja: Karo Saharinen - karo.saharinen@jamk.fi - D571
-Lukukausi: Kevät 2018
-Ryhmä: TTV15S5
+| Yksikkö | JAMK, Teknologiayksikkö, IT-instituutti |
+| Opettaja | Karo Saharinen - karo.saharinen@jamk.fi - D571 |
+| Lukukausi | Kevät 2018 |
+| Ryhmä | TTV15S5 |
 
 Opintojakson tavoitteet ja esitietovaatimukset voit lukea [opintojaksokuvaksesta Asio:sta](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTTW0220&knro=&noclose=%20&lan=f). Opintojakson voi hyväksilukea [JAMK:n ohjeiden mukaisesti](https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/Opiskelu/Opintojen-suunnittelu/Opintojen-hyvaksilukeminen/).
 
-Oppimateriaali jaetaan
+Oppimateriaali jaetaan:
 - [Github](https://github.com/sahkaman/repositorio)
 - [Optima](https://optima.jamk.fi/)
 - [JAMK-IT Slack](https://jamk-it.slack.com) ja sieltä kurssikanava: #tttw0220
