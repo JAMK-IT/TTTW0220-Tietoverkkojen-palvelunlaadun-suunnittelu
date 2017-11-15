@@ -1,45 +1,23 @@
 # Tietoverkkojen palvelunlaadun suunnittelu - TTTW0220 - 4op
 
-# Sisältö
 1. [Yleisesti](#yleisesti)
-2. [Läsnäolovelvollisuus, suoritustavat, arviointi ja palaute](#läsnäolovelvollisuus,-suoritustavat,-arviointi-ja-palaute)
 3. [Aikataulu](#aikataulu)
+2. [Oppimateriaali](#oppimateriaali)
+2. [Arviointi](#arviointi)
 4. [Uusinta](#uusintakokeen-mahdollisuudet)
+4. [Muuta](#muuta)
 
 ## Yleisesti
 
 ![JAMK IT-instituutti](src/jamk_it-instituutti_logo_engl_web_350x150.png "JAMK IT-instituutti")
 
 | Yksikkö | JAMK, Teknologiayksikkö, IT-instituutti |
+|:--------|:----------:|
 | Opettaja | Karo Saharinen - karo.saharinen@jamk.fi - D571 |
 | Lukukausi | Kevät 2018 |
 | Ryhmä | TTV15S5 |
 
 Opintojakson tavoitteet ja esitietovaatimukset voit lukea [opintojaksokuvaksesta Asio:sta](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTTW0220&knro=&noclose=%20&lan=f). Opintojakson voi hyväksilukea [JAMK:n ohjeiden mukaisesti](https://opinto-oppaat.jamk.fi/fi/opinto-opas-amk/Opiskelu/Opintojen-suunnittelu/Opintojen-hyvaksilukeminen/).
-
-Oppimateriaali jaetaan:
-- [Github](https://github.com/sahkaman/repositorio)
-- [Optima](https://optima.jamk.fi/)
-- [JAMK-IT Slack](https://jamk-it.slack.com) ja sieltä kurssikanava: #tttw0220
-
-## Läsnäolovelvollisuus, suoritustavat, arviointi ja palaute
-
-Opintojaksolla ei ole läsnäolovelvollisuutta.
-
-Opintojaksolla on teoriakoe joka arvioidaan. 
-
-Teoria koe maksimipisteet 30p, läpäisyraja 15p.
-
-| Pisteet | Asio-arvosana |
-|:--------|:----------:|
-| 0 - 15 | 0 |
-| 15 - 18 | 1 |
-| 18 - 21 | 2 |
-| 21 - 24 | 3 |
-| 24 - 27 | 4 |
-| 27 - 30 | 5 |
-
-Opintojaksopalaute kerätään aikataulun mukaisesti.
 
 ## Aikataulu
 
@@ -68,6 +46,28 @@ Tunnit pidetään TTV15S5 keskiviikkoisin 11:30 - 14:00, jossa tauko n. 13:00-13
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
 
+## Oppimateriaali
+
+Oppimateriaali jaetaan:
+- [Github](https://github.com/sahkaman/repositorio)
+- [Optima](https://optima.jamk.fi/)
+- [JAMK-IT Slack](https://jamk-it.slack.com) ja sieltä kurssikanava: #tttw0220
+
+## Arviointi
+
+Opintojaksolla on teoriakoe joka arvioidaan. 
+
+Teoria koe maksimipisteet 30p, läpäisyraja 15p.
+
+| Pisteet | Asio-arvosana |
+|:--------|:----------:|
+| 0 - 15 | 0 |
+| 15 - 18 | 1 |
+| 18 - 21 | 2 |
+| 21 - 24 | 3 |
+| 24 - 27 | 4 |
+| 27 - 30 | 5 |
+
 ## Uusintakokeen mahdollisuudet
 
 1. uusinta: Perjantai xx.5.2018 (ilmoittaudu karo.saharinen@jamk.fi viimeistään xx.05.2018)
@@ -75,6 +75,11 @@ Tunnit pidetään TTV15S5 keskiviikkoisin 11:30 - 14:00, jossa tauko n. 13:00-13
 
 Opintojakso päättyy viimeisen uusintakerran jälkeen.
 
+## Muuta
+
+Opintojaksolla ei ole läsnäolovelvollisuutta.
+
+Opintojaksopalaute kerätään aikataulun mukaisesti.
 
 
 
