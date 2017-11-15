@@ -13,4 +13,4 @@ Opiskelija osaa teorian keskeisimmistä tietoverkkojen palvelunlaadusta. Lisäks
 
 
 
-[target_url=https://jamk-it.github.io/TTTW0220-Tietoverkkojen-palvelunlaadun-suunnittelu]
+[target_url=https://github.com/JAMK-IT/TTTW0220-Tietoverkkojen-palvelunlaadun-suunnittelu]
