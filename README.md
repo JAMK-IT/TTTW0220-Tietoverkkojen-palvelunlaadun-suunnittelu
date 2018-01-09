@@ -27,7 +27,7 @@ Tunnit pidetään TTV15S5 keskiviikkoisin 11:30 - 14:00, jossa tauko n. 13:00-13
 
 | Vko | Sisältö | Materiaalit | Harjoitustehtävät |
 |:--------|:----------:|:-----:|---------|
-| 02 | Opintojakson esittely, Palvelunlaatu IntServ, DiffServ, Tasotesti | Linkkejä | - |
+| 02 | Opintojakson esittely, [Palvelunlaatu IntServ, DiffServ, Tasotesti](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/1_QoS_alustus.html) | Linkkejä | - |
 | 03 | Reititys, Siltaus, Multicast alustus | Linkkejä | - |
 | 04 | IGMP ja L2 Multicast, PIM ja L3 Multicast | Linkkejä | - |
 | 05 | VPNs (L3, L2), MEF & 802.1ah (MinM) | Linkkejä | - |
@@ -38,7 +38,7 @@ Tunnit pidetään TTV15S5 keskiviikkoisin 11:30 - 14:00, jossa tauko n. 13:00-13
 | 10 | Ruuhkanesto (RED, WRED), QoS leikkaus, muokkaus & Junos QoS | Linkkejä | - |
 | 11 | Cisco QoS, Extreme QoS, H-QoS | Linkkejä | - |
 | 12 | E2E-QoS, QoS mittaaminen, IP-verkon suorituskyvyn monitorointi | Linkkejä | - |
-| 13 | QoS -politiikkaa, VPLS, H-VPLS, VPLS+PBB, Traffic Engineering | Linkkejä | - |
+| 13 | QoS -politiikkaa, verkkojen neutraliteetti, VPLS, H-VPLS, VPLS+PBB, Traffic Engineering | Linkkejä | - |
 | 14 | Vierailijaluento | Linkkejä | - |
 | 15 | Kertaus kokeeseen | Linkkejä | - |
 | 16 | **Tentti** | ... | ... |
@@ -47,7 +47,7 @@ Tunnit pidetään TTV15S5 keskiviikkoisin 11:30 - 14:00, jossa tauko n. 13:00-13
 ## Oppimateriaali
 
 Oppimateriaali jaetaan:
-- [Github](https://github.com/sahkaman/repositorio)
+- [Github](https://github.com/JAMK-IT/TTTW0220-Tietoverkkojen-palvelunlaadun-suunnittelu)
 - [Optima](https://optima.jamk.fi/)
 - [JAMK-IT Slack](https://jamk-it.slack.com) ja sieltä kurssikanava: #tttw0220
 
@@ -68,7 +68,7 @@ Teoria koe maksimipisteet 30p, läpäisyraja 15p.
 
 ## Uusintakokeen mahdollisuudet
 
-1. uusinta: Perjantai xx.5.2018 (ilmoittaudu karo.saharinen@jamk.fi viimeistään xx.05.2018)
+1. uusinta: Perjantai 25.5.2018 (ilmoittaudu karo.saharinen@jamk.fi viimeistään 23.05.2018)
 2. uusinta: Syksyn 2018 ekassa uusinnassa (tiedossa vasta syksyllä 2018)
 
 Opintojakso päättyy viimeisen uusintakerran jälkeen.
