@@ -21,14 +21,14 @@ Opintojakson tavoitteet ja esitietovaatimukset voit lukea [opintojaksokuvaksesta
 
 ## Aikataulu
 
-Muutokset aikatauluun ilmoitetaan tällä sivulla ja [Slack -kanavalla](https://jamk-it.slack.com).
+Muutokset aikatauluun ilmoitetaan tällä sivulla ja [Slack -kanavalla](https://jamk-it.slack.com) #tttw0220.
 
 Tunnit pidetään TTV15S5 keskiviikkoisin 11:30 - 14:00, jossa tauko n. 13:00-13:15.
 
 | Vko | Sisältö | Materiaalit | Harjoitustehtävät |
 |:--------|:----------:|:-----:|---------|
-| 02 | Opintojakson esittely, Palvelunlaatu IntServ, DiffServ, Multicast alustus | Linkkejä | - |
-| 03 | Reititys, Siltaus | Linkkejä | - |
+| 02 | Opintojakson esittely, Palvelunlaatu IntServ, DiffServ, Tasotesti | Linkkejä | - |
+| 03 | Reititys, Siltaus, Multicast alustus | Linkkejä | - |
 | 04 | IGMP ja L2 Multicast, PIM ja L3 Multicast | Linkkejä | - |
 | 05 | VPNs (L3, L2), MEF & 802.1ah (MinM) | Linkkejä | - |
 | 06 | ENNI, MetroEthernet as an extension of MPLS | Linkkejä | - |
