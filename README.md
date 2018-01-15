@@ -1,4 +1,4 @@
-# Tietoverkkojen palvelunlaadun suunnittelu - TTTW0220 - 4op
+# Tietoverkkojen palvelunlaadun suunnittelu - TTTW0220 - 3op
 
 1. [Yleisesti](#yleisesti)
 3. [Aikataulu](#aikataulu)
