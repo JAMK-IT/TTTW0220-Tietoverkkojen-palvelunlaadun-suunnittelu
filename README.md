@@ -25,24 +25,24 @@ Muutokset aikatauluun ilmoitetaan tällä sivulla ja [Slack -kanavalla](https://
 
 Tunnit pidetään TTV15S5 keskiviikkoisin 11:30 - 14:00, jossa tauko n. 13:00-13:15.
 
-| Vko | Sisältö | Materiaalit | Harjoitustehtävät |
-|:--------|:----------:|:-----:|---------|
-| 02 | Opintojakson esittely, [Palvelunlaatu IntServ, DiffServ, Tasotesti](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/1_QoS_alustus.html) | Linkkejä | [BGP naapuruus VyOS:n välille](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/1_QoS_alustus.html#/5/1) |
-| 03 | Kertausta: [Siltaus](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/Kertausta/1_Ethernet_ja_VLAN.pdf) & [Reititys](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/Kertausta/2_Reititys.pdf) + [BGP](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/BGP_Border_Gateway_Protocol.pdf) | Linkkejä | - |
-| 04 | [IGMP ja L2 Multicast, PIM ja L3 Multicast](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/2_Multicast_perusteet.pdf) | Linkkejä | - |
-| 05 | VPNs (L3, L2), MEF & 802.1ah (MinM) | Linkkejä | - |
-| 06 | ENNI, MetroEthernet as an extension of MPLS | Linkkejä | - |
-| 07 | QoS merkkaus | Linkkejä | - |
-| 08 | QoS jonotus, puolikurssipalaute | Linkkejä | - |
-| 09 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Itseopiskeluviikko ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) | Linkkejä | - |
-| 10 | Ruuhkanesto (RED, WRED), QoS leikkaus, muokkaus & Junos QoS | Linkkejä | - |
-| 11 | Cisco QoS, Extreme QoS, H-QoS | Linkkejä | - |
-| 12 | E2E-QoS, QoS mittaaminen, IP-verkon suorituskyvyn monitorointi | Linkkejä | - |
-| 13 | QoS -politiikkaa, verkkojen neutraliteetti, VPLS, H-VPLS, VPLS+PBB, Traffic Engineering | Linkkejä | - |
-| 14 | Vierailijaluento | Linkkejä | - |
-| 15 | Kertaus kokeeseen | Linkkejä | - |
-| 16 | **Tentti** | ... | ... |
-| 17 | **1. Uusintatentti..** | ... | ... |
+| Vko | Sisältö | Harjoitustehtävät |
+|:--------|:----------:|---------|
+| 02 | Opintojakson esittely, [Palvelunlaatu IntServ, DiffServ, Tasotesti](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/1_QoS_alustus.html) | [BGP naapuruus VyOS:n välille](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/1_QoS_alustus.html#/5/1) |
+| 03 | Kertausta: [Siltaus](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/Kertausta/1_Ethernet_ja_VLAN.pdf) & [Reititys](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/Kertausta/2_Reititys.pdf) + [BGP](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/BGP_Border_Gateway_Protocol.pdf) | - |
+| 04 | [IGMP ja L2 Multicast, PIM ja L3 Multicast](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/2_Multicast_perusteet.pdf) | - |
+| 05 | VPNs (L3, L2), MEF & 802.1ah (MinM) | - |
+| 06 | ENNI, MetroEthernet as an extension of MPLS | - |
+| 07 | QoS merkkaus | - |
+| 08 | QoS jonotus, puolikurssipalaute | - |
+| 09 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Itseopiskeluviikko ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) | - |
+| 10 | Ruuhkanesto (RED, WRED), QoS leikkaus, muokkaus & Junos QoS | - |
+| 11 | Cisco QoS, Extreme QoS, H-QoS | - |
+| 12 | E2E-QoS, QoS mittaaminen, IP-verkon suorituskyvyn monitorointi | - |
+| 13 | QoS -politiikkaa, verkkojen neutraliteetti, VPLS, H-VPLS, VPLS+PBB, Traffic Engineering | - |
+| 14 | Vierailijaluento | - |
+| 15 | Kertaus kokeeseen | - |
+| 16 | **Tentti** | ... |
+| 17 | **1. Uusintatentti..** | ... |
 
 ## Oppimateriaali
 
