@@ -27,9 +27,9 @@ Tunnit pidetään TTV15S5 keskiviikkoisin 11:30 - 14:00, jossa tauko n. 13:00-13
 
 | Vko | Sisältö | Materiaalit | Harjoitustehtävät |
 |:--------|:----------:|:-----:|---------|
-| 02 | Opintojakson esittely, [Palvelunlaatu IntServ, DiffServ, Tasotesti](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/1_QoS_alustus.html) | Linkkejä | - |
-| 03 | Reititys, Siltaus, Multicast alustus | Linkkejä | - |
-| 04 | IGMP ja L2 Multicast, PIM ja L3 Multicast | Linkkejä | - |
+| 02 | Opintojakson esittely, [Palvelunlaatu IntServ, DiffServ, Tasotesti](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/1_QoS_alustus.html) | Linkkejä | [BGP naapuruus VyOS:n välille](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/1_QoS_alustus.html#/5/1) |
+| 03 | Kertausta: [Siltaus](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/Kertausta/1_Ethernet_ja_VLAN.pdf) & [Reititys](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/Kertausta/2_Reititys.pdf) + [BGP](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/BGP_Border_Gateway_Protocol.pdf) | Linkkejä | - |
+| 04 | [IGMP ja L2 Multicast, PIM ja L3 Multicast](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/2_Multicast_perusteet.pdf) | Linkkejä | - |
 | 05 | VPNs (L3, L2), MEF & 802.1ah (MinM) | Linkkejä | - |
 | 06 | ENNI, MetroEthernet as an extension of MPLS | Linkkejä | - |
 | 07 | QoS merkkaus | Linkkejä | - |
