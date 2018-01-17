@@ -1,6 +1,6 @@
 # Harjoitustehtävä
 
-![Harjoitustehtävä](src/Harjoitteet/Harjoitus2.png "Harjoitustehtävä")
+![Harjoitustehtävä](Harjoitus2.png "Harjoitustehtävä")
 
 [http://draw.io](http://draw.io/) -palvelussa voi muokata [topologiakuvaa](src/Harjoitteet/Harjoitus2.png).
 
