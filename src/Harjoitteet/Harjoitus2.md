@@ -1,8 +1,8 @@
 # Harjoitustehtävä
 
-![Harjoitustehtävä](src/Harjoitustehtävät/Harjoitus2.png "Harjoitustehtävä")
+![Harjoitustehtävä](src/Harjoitteet/Harjoitus2.png "Harjoitustehtävä")
 
-[http://draw.io](http://draw.io/) -palvelussa voi muokata [topologiakuvaa](src/Harjoitustehtävät/Harjoitus2.png).
+[http://draw.io](http://draw.io/) -palvelussa voi muokata [topologiakuvaa](src/Harjoitteet/Harjoitus2.png).
 
 Asenna 3 [VyOS -reititintä](http://vyos.io) ja kaksi Lubuntua.
 1. Tee eBGP naapuruus topologian mukaisesti VyOS2 <-> VyOS3 reitittimien Loopbackien välille. 
