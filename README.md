@@ -30,7 +30,7 @@ Tunnit pidetään TTV15S5 keskiviikkoisin 11:30 - 14:00, jossa tauko n. 13:00-13
 | 02 | Opintojakson esittely, [Palvelunlaatu IntServ, DiffServ, Tasotesti](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/1_QoS_alustus.html) | [BGP naapuruus VyOS:n välille](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/1_QoS_alustus.html#/5/1) |
 | 03 | Kertausta: [Siltaus](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/Kertausta/1_Ethernet_ja_VLAN.pdf) & [Reititys](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/Kertausta/2_Reititys.pdf) + [BGP](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/BGP_Border_Gateway_Protocol.pdf) | [OSPF redistribute BGP:hen](src/Harjoitteet/Harjoitus2.md) |
 | 04 | [IGMP ja L2 Multicast, PIM ja L3 Multicast](http://student.labranet.jamk.fi/~sahka/lectures/reveal/QoS/2_Multicast/2_Multicast_perusteet.pdf) | - |
-| 05 | VPNs (L3, L2), MEF & 802.1ah (MinM) | - |
+| 05 | VPNs (L3, L2), MEF & 802.1ah (MinM), [Työpäivä -tapahtuma](https://www.jamk.fi/fi/Tapahtumat/tyopaiva-dynamo/) | - |
 | 06 | ENNI, MetroEthernet as an extension of MPLS | - |
 | 07 | QoS merkkaus | - |
 | 08 | QoS jonotus, puolikurssipalaute | - |
